@@ -1,0 +1,13 @@
+{
+    "31337": {
+        "nft": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        }
+    },
+    "11155111" :{
+      "nft": {
+        "address": "0x799c7AA58Cd725B729C0b74d6D9b0D9BAeF28F84"
+      },
+      "explorerURL" :"https://sepolia.etherscan.io/"
+    }
+}
